@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+pymc>=5.0
+arviz
+jupyter
+flask
+# For dashboard later: react not here, but note for frontend
