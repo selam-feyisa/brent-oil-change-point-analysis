@@ -3,18 +3,18 @@ Date,Event,Category,Description,Expected_Price_Direction
 1991-01-17,Gulf War - Operation Desert Storm begins,Conflict,US-led coalition launches military action to expel Iraq from Kuwait.,Increase then decrease
 1997-07-02,Asian Financial Crisis begins,Economic Shock,Collapse of the Thai baht triggers a regional financial crisis that sharply reduces Asian oil demand.,Decrease
 1998-12-01,Oil price collapse to near $10/barrel,Economic Shock,Combination of Asian demand collapse and OPEC overproduction pushes prices to decade lows.,Decrease
-1999-03-23,OPEC Vienna production cut agreement,OPEC Policy,OPEC and non-OPEC producers agree to cut output by ~2.1 million bpd, helping prices recover through 1999-2000.,Increase
+1999-03-23,OPEC Vienna production cut agreement,OPEC Policy,"OPEC and non-OPEC producers agree to cut output by ~2.1 million bpd, helping prices recover through 1999-2000.",Increase
 2001-09-11,September 11 terrorist attacks,Geopolitical,Attacks on the US create short-term demand uncertainty and market volatility.,Decrease (short-term)
-2003-03-20,US-led invasion of Iraq,Conflict,Coalition forces invade Iraq, raising concerns about Middle East supply stability.,Increase
-2008-07-11,Brent crude peaks near record high (~$147/bbl),Market Peak,Strong global demand, a weak US dollar, and speculative activity drive prices to an all-time high.,Increase (peak)
-2008-09-15,Global Financial Crisis (Lehman Brothers collapse),Economic Shock,Collapse of Lehman Brothers triggers a global financial crisis and demand collapse, crashing oil prices within months.,Decrease
-2011-02-15,Arab Spring / Libyan civil war,Conflict,Widespread political unrest across the Middle East and North Africa, including Libyan civil war, disrupts regional oil supply.,Increase
+2003-03-20,US-led invasion of Iraq,Conflict,"Coalition forces invade Iraq, raising concerns about Middle East supply stability.",Increase
+2008-07-11,Brent crude peaks near record high (~$147/bbl),Market Peak,"Strong global demand, a weak US dollar, and speculative activity drive prices to an all-time high.",Increase (peak)
+2008-09-15,Global Financial Crisis (Lehman Brothers collapse),Economic Shock,"Collapse of Lehman Brothers triggers a global financial crisis and demand collapse, crashing oil prices within months.",Decrease
+2011-02-15,Arab Spring / Libyan civil war,Conflict,"Widespread political unrest across the Middle East and North Africa, including Libyan civil war, disrupts regional oil supply.",Increase
 2014-06-01,Rise of ISIS in Iraq / early stage of US shale boom,Conflict/Supply Shift,Militant advances in Iraq raise supply-risk premiums while rapidly rising US shale output builds a supply glut.,Mixed/Volatile
-2014-11-27,OPEC declines to cut production (Vienna meeting),OPEC Policy,OPEC opts to maintain output despite falling prices, seen as a strategy to defend market share against US shale, accelerating the price collapse.,Decrease
+2014-11-27,OPEC declines to cut production (Vienna meeting),OPEC Policy,"OPEC opts to maintain output despite falling prices, seen as a strategy to defend market share against US shale, accelerating the price collapse.",Decrease
 2016-01-20,Oil hits multi-year low (~$27/bbl),Market Trough,Persistent oversupply combined with a China growth slowdown pushes prices to a 12-year low.,Decrease (trough)
-2016-11-30,First OPEC+ production cut agreement,OPEC Policy,OPEC agrees with non-OPEC producers (led by Russia) to cut output for the first time since 2008, supporting a price recovery.,Increase
-2018-05-08,US withdraws from Iran nuclear deal,Sanctions,US reinstates sanctions on Iranian oil exports, tightening expected global supply.,Increase
-2020-03-08,Saudi-Russia oil price war begins,OPEC Policy,OPEC+ talks collapse; Saudi Arabia launches a price war by ramping up output, crashing prices amid emerging COVID-19 demand fears.,Decrease
-2020-04-20,WTI futures turn negative (COVID-19 demand collapse),Economic Shock,COVID-19 lockdowns collapse global oil demand and storage capacity nears its limit, briefly sending US futures prices negative.,Decrease
+2016-11-30,First OPEC+ production cut agreement,OPEC Policy,"OPEC agrees with non-OPEC producers (led by Russia) to cut output for the first time since 2008, supporting a price recovery.",Increase
+2018-05-08,US withdraws from Iran nuclear deal,Sanctions,"US reinstates sanctions on Iranian oil exports, tightening expected global supply.",Increase
+2020-03-08,Saudi-Russia oil price war begins,OPEC Policy,"OPEC+ talks collapse; Saudi Arabia launches a price war by ramping up output, crashing prices amid emerging COVID-19 demand fears.",Decrease
+2020-04-20,WTI futures turn negative (COVID-19 demand collapse),Economic Shock,"COVID-19 lockdowns collapse global oil demand and storage capacity nears its limit, briefly sending US futures prices negative.",Decrease
 2020-04-12,OPEC+ agrees record production cuts (9.7 million bpd),OPEC Policy,OPEC+ agrees to the largest coordinated production cut in history in response to the COVID-19 demand shock.,Increase (stabilizing)
 2022-02-24,Russia invades Ukraine,Conflict/Sanctions,Russia's invasion and the resulting Western sanctions on Russian energy exports raise severe global supply concerns.,Increase

@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2020-04-15",
+    "price_before": 56.63,
+    "price_after": 73.17,
+    "percent_change": 29.22,
+    "tau_index": null,
+    "nearest_event": "OPEC+ agrees record production cuts (9.7 million bpd)",
+    "nearest_event_date": "2020-04-12",
+    "days_from_event": 3,
+    "note": "MCMC convergence caveat: r_hat for tau was 1.12 in this run (above the 1.01 threshold), so treat the exact date with some caution. See docs/assumptions_and_limitations.md."
+  }
+]

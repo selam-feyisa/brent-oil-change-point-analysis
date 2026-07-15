@@ -78,12 +78,20 @@ limitations are documented in `docs/assumptions_and_limitations.md` in the proje
 
 ## Interactive Dashboard
 
-To make these results explorable rather than static, we built the scaffold for a companion
-dashboard (Flask API + React frontend) that serves the price series, the researched events, and
-the change point results, with date filtering and event highlighting. See the project's
-`backend_frontend_README.md` for setup instructions.
+To make these results explorable rather than static, we built a companion dashboard (Flask API +
+React frontend) that serves the price series, the researched events, and the change point
+results, with date filtering and event highlighting. See `backend_frontend_README.md` for setup
+instructions.
 
-*(Dashboard screenshots: see docs/screenshots/ once the frontend TODOs are completed locally.)*
+**Overview** — the full price series with researched events (amber lines) and the detected
+change point (red line) overlaid:
+
+![Dashboard overview](screenshots/dashboard_overview.png)
+
+**Event drill-down** — clicking a researched event in the table highlights it on the chart and
+re-centers the view on the surrounding period:
+
+![Event drill-down](screenshots/dashboard_event_drilldown.png)
 
 ## Limitations and Future Work
 
